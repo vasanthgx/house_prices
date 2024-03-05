@@ -40,7 +40,7 @@ It can be downloaded/loaded using the sklearn.datasets.fetch_california_housing 
 - Target: Median house value for California districts, expressed in hundreds of thousands of dollars ($100,000)
 
 ## Evaluation and Results
-![alt text](https://github.com/vasanthgx/house_prices/tree/main/images/image1.png)
+![alt text](https://github.com/vasanthgx/house_prices/blob/main/images/image1.png)
 
 As you can see from the above image, the model has signifcant amount of error in <x, y, z regions>
 
