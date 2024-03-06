@@ -51,3 +51,64 @@ As you can see from the above image, the model has signifcant amount of error in
 | sdfsdfs       | 0.77          | 
 
 The above quant results show that <>
+
+## Key Takeaways
+
+This task is evidently a classic example of supervised learning, as the model can be trained using labeled examples, with each instance providing the expected output, such as the median housing price of a district. It falls under the category of regression tasks since the model aims to predict a numerical value. More specifically, it constitutes a multiple regression problem as it utilizes multiple features, such as district population and median income, to make predictions. Additionally, it is a univariate regression problem since the objective is to predict a single value for each district. If the goal were to predict multiple values per district, it would be classified as a multivariate regression problem. Furthermore, there is no continuous stream of data entering the system, no urgent need to adapt to changing data quickly, and the dataset is small enough to be accommodated in memory, thus making plain batch learning sufficient.
+
+
+## How to Run
+
+The code is built on Google Colab on an iPython Notebook. 
+
+```bash
+Simply download the repository, upload the notebook and dataset on colab, and hit play!
+```
+
+
+## Roadmap
+
+What are the future modification you plan on making to this project?
+
+- Try more models
+
+- Wrapped Based Feature Selection
+
+
+## Libraries 
+
+**Language:** Python
+
+**Packages:** Sklearn, Matplotlib, Pandas, Seaborn
+
+
+## FAQ
+
+#### How does the linear regression model work?
+
+Answer 1
+
+#### How do you train the model on a new dataset?
+
+Answer 2
+
+#### What is the California Housing Dataset?
+
+Answer 2
+## Acknowledgements
+
+All the links, blogs, videos, papers you referred to/took inspiration from for building this project. 
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+
+## Contact
+
+If you have any feedback/are interested in collaborating, please reach out to me at fake@fake.com
+
+
+## License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
