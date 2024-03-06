@@ -123,7 +123,7 @@ This dataset has been used in various research studies, educational settings, an
 ## Acknowledgements
 
 
- - [Hands on machine learning - by Geron ](https://github.com/vasanthgx/house_prices/blob/main/images/bookcover.jpg)
+ - ![Hands on machine learning - by Geron](https://github.com/vasanthgx/house_prices/blob/main/images/bookcover.jpg)
  - [github repo for handsonml-3](https://github.com/ageron/handson-ml3)
  - [EDA on the California housing dataset - kaggle notebook](https://www.kaggle.com/code/olanrewajurasheed/california-housing-dataset)
  
