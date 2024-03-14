@@ -7,7 +7,7 @@
 
 # Project Title
 
-Exploratory data analysis of the California housing dataset and fitting a Linear model for prediction of the house prices
+**Exploratory data analysis of the California housing dataset and fitting a Linear model for prediction of the house prices**
 
 
 ## Implementation Details
