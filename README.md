@@ -1,4 +1,5 @@
-# house_prices
+![logo](https://github.com/vasanthgx/house_prices/blob/main/images/resizedlogo1.png)
+# House Prices
  
  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="300" align='center'>
 
