@@ -3,7 +3,7 @@
 -->
 
 <div align="left">
-<img src="https://github.com/vasanthgx/house_prices/blob/main/images/newML-logo.png" width="100" style="border-radius: 50%;">
+<img src="https://github.com/vasanthgx/house_prices/blob/main/images/newML-logo.png" width="100" style="border-radius:50%;">
 
 </div>
 
