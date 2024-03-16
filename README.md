@@ -1,8 +1,9 @@
 ![logo](https://github.com/vasanthgx/house_prices/blob/main/images/resizedlogo1.png)
-<div>
-<img src="https://github.com/vasanthgx/house_prices/blob/main/images/logo.gif" width="200" align='center'>
+<div align = "center">
+<img src="https://github.com/vasanthgx/house_prices/blob/main/images/logo.gif" width="200" >
 
 </div>
+
 # House Prices
  
  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="300" align='right'>
