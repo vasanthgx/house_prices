@@ -8,7 +8,7 @@
 </div>
 
 <div >
-<img src="https://github.com/vasanthgx/house_prices/blob/main/images/logo.gif" width= 100% >
+<img src="https://github.com/vasanthgx/house_prices/blob/main/images/logo-house-prices.gif" width= 100% >
 
 </div>
 
