@@ -2,8 +2,8 @@
 ![logo](https://github.com/vasanthgx/house_prices/blob/main/images/resizedlogo1.png)
 -->
 
-<div align="left">
-<img src="https://github.com/vasanthgx/house_prices/blob/main/images/resizedlogo1.png" width="100" >
+<div align="center">
+<img src="https://github.com/vasanthgx/house_prices/blob/main/images/resizedlogo1.png" width="200" >
 
 </div>
 
