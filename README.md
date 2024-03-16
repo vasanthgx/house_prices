@@ -6,6 +6,8 @@
 <img src="https://github.com/vasanthgx/house_prices/blob/main/images/newML-logo.png" width=100>
 
 </div>
+<p>
+<p>
 
 <div >
 <img src="https://github.com/vasanthgx/house_prices/blob/main/images/logo.gif" width= 100% >
