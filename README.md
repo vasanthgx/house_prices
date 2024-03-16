@@ -1,6 +1,14 @@
+<!---
 ![logo](https://github.com/vasanthgx/house_prices/blob/main/images/resizedlogo1.png)
-<div align = "center">
-<img src="https://github.com/vasanthgx/house_prices/blob/main/images/logo.gif" width="200" >
+-->
+
+<div align="left">
+<img src="https://github.com/vasanthgx/house_prices/blob/main/images/resizedlogo1.png" width="100" >
+
+</div>
+
+<div >
+<img src="https://github.com/vasanthgx/house_prices/blob/main/images/logo.gif" width= 100% >
 
 </div>
 
