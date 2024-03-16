@@ -3,7 +3,7 @@
 -->
 
 <div align="center">
-<img src="https://github.com/vasanthgx/house_prices/blob/main/images/resizedlogo1.png" width="200" >
+<img src="https://github.com/vasanthgx/house_prices/blob/main/images/resizedlogo1.png" width="300" >
 
 </div>
 
