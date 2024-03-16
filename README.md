@@ -2,7 +2,7 @@
 ![logo](https://github.com/vasanthgx/house_prices/blob/main/images/resizedlogo1.png)
 -->
 
-<div align="left">
+<div >
 <img src="https://github.com/vasanthgx/house_prices/blob/main/images/newML-logo.png"  style="border-radius: 50%;">
 
 </div>
